@@ -89,3 +89,4 @@ context.db
 /lab_out/alerts.ndjson
 /lab_out/report_*.md
 /lab_out/report_*.jsonl
+/lab_out/context.db
